@@ -1,0 +1,15 @@
+protobuf
+transformers
+cpm_kernels
+torch
+gradio
+mdtex2html
+sentencepiece
+accelerate
+sse-starlette
+streamlit
+datasets
+peft
+tqdm
+bitsandbytes
+scipy
